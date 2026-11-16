@@ -5,6 +5,7 @@
 
 
 Evidencia
+
 <img width="867" height="455" alt="a8d60108-a204-455b-aea6-892649d1d113" src="https://github.com/user-attachments/assets/ac8db62c-909d-4817-8ea5-00b57856b6ca" />
 
 ## Objetivo de la práctica
