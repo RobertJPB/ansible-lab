@@ -3,6 +3,10 @@
 **Estudiante:** Robert Plaza (2024-2174)
 **Institución:** Instituto Tecnológico de las Américas (ITLA)
 
+
+Evidencia
+<img width="867" height="455" alt="a8d60108-a204-455b-aea6-892649d1d113" src="https://github.com/user-attachments/assets/ac8db62c-909d-4817-8ea5-00b57856b6ca" />
+
 ## Objetivo de la práctica
 
 El objetivo de esta práctica es aprender a automatizar la configuración de servidores con Ansible usando dos contenedores Docker basados en Ubuntu 24.04 como nodos administrados. Con el inventario definimos los servidores y la forma de conectarse a ellos (`ansible_connection=docker`, sin SSH). Luego el playbook ejecuta tareas comunes de administración: recolecta información del sistema, crea directorios y archivos, usa un `loop` para repetir una tarea y un condicional `when` para que una tarea se ejecute solo si se cumple una condición.
